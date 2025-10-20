@@ -7,4 +7,5 @@ nano banana
 
 建筑设计
 
-中国股市
+Qwen
+Qwen-edit
